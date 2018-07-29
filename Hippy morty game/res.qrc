@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>intro.wav</file>
+        <file>laserfire01.ogg</file>
+        <file>laser.wav</file>
+        <file>The Used - The Bird and The Worm (Instrumental).mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/background-1.png</file>
+        <file>images/bullet.png</file>
+        <file>images/enemy_4.png</file>
+        <file>images/tankBase.png</file>
+        <file>images/tankTurret.png</file>
+        <file>images/PM038.png</file>
+    </qresource>
+</RCC>
